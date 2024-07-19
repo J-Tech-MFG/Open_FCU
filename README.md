@@ -4,6 +4,7 @@
 Airsoft HPA engine fire control unit based around an Ardiuno Nano. This unit offers adjustable dwell and rate of fire via two potentionmeters.
 This is designed to be run off a 3s LiPo battery to power the Arduino and Solenoid.
 
+Firmware by Xrust on Thingiverse https://www.thingiverse.com/xrust/designs
 
 The PCBs can be ordered using the included Gerber file I use PCBWay.
 
