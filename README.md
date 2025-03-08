@@ -71,3 +71,8 @@ Parts List:
 
 1x - Battery lead
 1x - PCB
+
+
+Assembly Video:
+
+https://youtu.be/lv4qCfpaFPo?si=hQL4aVuzEO6RGoSb
